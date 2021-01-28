@@ -1,1 +1,1 @@
-FROM httpd-parent
+FROM container-build/httpd-parent
